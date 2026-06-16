@@ -1,4 +1,4 @@
-📊 Business Performance Analysis using SQL
+📊 Business Performance Analysis using SQL  
 📌 Project Overview
 
 This project focuses on analyzing business performance data using MySQL.
